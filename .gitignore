@@ -1,4 +1,6 @@
+*.json
 *.log
 *.pyc
 *.sqlite*
-.DS_Store
+.vagrant
+.idea
